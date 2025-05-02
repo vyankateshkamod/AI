@@ -87,7 +87,7 @@ class Graph:
         for u, v, weight in result:
             print(f"{u} -- {v} == {weight}")
             total_weight += weight
-        print(f"Total weight of MST: {total_weight}")
+        print(f"Total weight of MST: {total_weight}")   
 
 # -------- Example --------
 g = Graph()

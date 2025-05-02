@@ -1,6 +1,5 @@
-# DFS and BFS implementation (Human-typed version)
+# DFS and BFS implementation
 
-# -------- Algorithm for DFS and BFS --------
 # DFS Algorithm:
 # 1. Mark the current node as visited.
 # 2. Visit all its adjacent unvisited nodes recursively.
